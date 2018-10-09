@@ -1,5 +1,5 @@
 # Genesis
-A Battle.net bot for the new battle.net chat environment utilzing Blizzard's CHAT API written in Swift for Mac OS X.
+A Battle.net bot for the new battle.net chat environment utilzing Blizzard's CHAT API written in Swift for Mac.
 
 
 http://darkblizz.org/images/ChatAPIbot1.png
