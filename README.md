@@ -6,6 +6,9 @@ Still under development
 
 
 Screenshots
+http://darkblizz.org/images/ChatAPIbot3.png
+
 http://darkblizz.org/images/ChatAPIbot1.png
+
 http://darkblizz.org/images/ChatAPIbot2.png
 
